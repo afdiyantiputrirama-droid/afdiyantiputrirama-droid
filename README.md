@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fbc2eb&height=200&section=header&text=Putri%20Rama%20Afdiyanti&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-# 👋 Hi, I'm [Nama Kamu]
+# 👋 Hi, I'm Putri Rama Afdiyanti
 
 📱 Flutter Developer (Beginner)  
 🚀 Currently learning mobile app development using Dart & Flutter  
@@ -37,7 +37,7 @@ Saya adalah seorang pemula di bidang mobile development yang sedang belajar meng
 ---
 
 ## 🌐 Social Media  
-- Instagram / Twitter: https://twitter.com/ramaafdiyanti
+- Instagram: [ramaafdiyanti](https://www.instagram.com/)
 
 ---
 
