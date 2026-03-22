@@ -1,35 +1,60 @@
-# 👋 Hi, I'm Putri Rama Afdiyanti
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff"/>
+</p>
 
-🎓 Beginner in Android Development  
-📱 Currently learning how to build Android apps  
-🚀 Passionate about technology and mobile development  
+# 👋 Hi, I'm [Nama Kamu]
 
----
-
-## 👨‍💻 About Me
-- 🌱 Sedang belajar membuat aplikasi mobile dengan Flutter  
-- 💡 Tertarik pada UI/UX dan pengembangan aplikasi  
-- 🎯 Target: Bisa membuat aplikasi Android/iOS sendiri  
+📱 Flutter Developer (Beginner)  
+🚀 Currently learning mobile app development using Dart & Flutter  
 
 ---
 
-## 🛠️ Tech Stack (Learning)
-- Dart
-- Flutter
-- Visual Studio Code
+## 👨‍💻 Introduction
+Saya adalah seorang pemula di bidang mobile development yang sedang belajar menggunakan Flutter untuk membangun aplikasi Android dan iOS. Saya tertarik pada dunia teknologi dan ingin terus berkembang menjadi developer profesional.
 
+---
+
+## 🛠️ Skills & Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Opsional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 - Basic Dart Programming  
-- Flutter Widget (Text, Container, Column, Row)  
-- Navigation & Layout    
+- Flutter Widget (Text, Row, Column, Container)  
+- Navigation & Layout  
 
 ---
 
-## 📫 Contact
-- Email: afdiyantiputrirama@gmail.com  
+## 🌐 Social Media  
+- Instagram / Twitter: https://twitter.com/ramaafdiyanti
+
+---
+
+## 😄 Fun Facts
+- ☕ Suka ngoding sambil minum kopi  
+- 🎧 Lebih fokus kalau sambil denger musik  
+- 🚀 Sedang mengejar mimpi jadi mobile developer  
+
+---
+
+## 💬 Favorite Quote
+> "Keep learning, because technology never stops evolving."
+
+---
+
+## 📂 My Projects
+- Coming soon... 🚧  
 
 ---
 
