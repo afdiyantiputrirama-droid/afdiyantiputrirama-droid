@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fbc2eb&height=200&section=header&text=Putri%20Rama%20Afdiyanti&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fbc2eb&height=200&section=header&text=Welcom!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 # 👋 Hi, I'm Putri Rama Afdiyanti
@@ -17,14 +17,6 @@ Saya adalah seorang pemula di bidang mobile development yang sedang belajar meng
 ## 🛠️ Skills & Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter,vscode,androidstudio,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats (Opsional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
 </p>
 
 ---
