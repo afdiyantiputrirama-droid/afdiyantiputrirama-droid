@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Putri Rama Afdiyanti]
+# 👋 Hi, I'm Putri Rama Afdiyanti
 
 🎓 Beginner in Android Development  
 📱 Currently learning how to build Android apps  
